@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="param">Paramètres</string>
+    <string name="connex">Connexion</string>
+    <string name="acti">Activités</string>
+    <string name="activit_principale">Activité principale</string>
+    <string name="activite1">activite1</string>
+    <string name="activite2">activite2</string>
+    <string name="activite3">activite3</string>
+</resources>

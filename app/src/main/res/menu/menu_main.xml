@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.formation.menudemo.MainActivity">
+
+    <item
+        android:id="@+id/connex"
+        android:checkable="true"
+        android:checked="true"
+        android:orderInCategory="101"
+        android:title="@string/connex"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/acti"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orderInCategory="101"
+        android:title="@string/acti"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/actiP"
+                android:icon="@mipmap/menu_icon0"
+                android:orderInCategory="101"
+                android:title="@string/activit_principale"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/acti1"
+                android:icon="@mipmap/menu_icon1"
+                android:orderInCategory="101"
+                android:title="@string/activite1"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/acti2"
+                android:icon="@mipmap/menu_icon2"
+                android:orderInCategory="101"
+                android:title="@string/activite2"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/acti3"
+                android:enabled="true"
+                android:icon="@mipmap/menu_icon3"
+                android:orderInCategory="101"
+                android:title="@string/activite3"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/param"
+        android:onClick="SettingsActivity"
+        android:layout_width="match_parent"
+        android:orderInCategory="101"
+        android:title="@string/param"
+        app:showAsAction="never" />
+</menu>
