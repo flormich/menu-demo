@@ -1,38 +1,23 @@
 ## Demo Android Menu
 
-> Create drop down menu
+> Display the country code corresponding to the typed code
 
 ## 📃 Description
 
-* Drop down menu
-  * Connexion
-  * Activities
-    * Main Activity
-    * Activity 1
-    * Activity 2
-    * Activity 3
-  * Parameters
+* Tape the country code and display the country name
 
 ## ✨️ Usage
-Drop down menu for android
 
-## 📺 [Demo](https://flomi.000webhostapp.com/demo-mvc/public/roles)
+
+## 📺 [Picture]
 
 <p align="center">
-Drop down Menu
+Country code
 <br>
-<img  src="https://github.com/flormich/menu-demo/blob/master/Capture.JPG">
-<br>
-<br>
-Frist menu
-<br>
-<img src="https://github.com/flormich/menu-demo/blob/master/Capture2.JPG">
+<!-- <img  src="https://github.com/flormich/menu-demo/blob/master/Capture.JPG"> -->
 <br>
 <br>
-<br>
-Activities menu
-<br>
-<img  src="https://github.com/flormich/menu-demo/blob/master/Capture3.JPG">
+
 </p>
 
 
