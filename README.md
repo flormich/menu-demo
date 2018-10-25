@@ -1,23 +1,38 @@
-## Demo Android Menu
+## WebService Demo
 
-> Display the country code corresponding to the typed code
+> Create WebService Appli
 
 ## 📃 Description
 
-* Tape the country code and display the country name
+* Drop down menu
+  * Connexion
+  * Activities
+    * Main Activity
+    * Activity 1
+    * Activity 2
+    * Activity 3
+  * Parameters
 
 ## ✨️ Usage
+Drop down menu for android
 
-
-## 📺 [Picture]
+## 📺 [Demo](https://flomi.000webhostapp.com/demo-mvc/public/roles)
 
 <p align="center">
-Country code
+Drop down Menu
 <br>
-<!-- <img  src="https://github.com/flormich/menu-demo/blob/master/Capture.JPG"> -->
+<img  src="https://github.com/flormich/menu-demo/blob/master/Capture.JPG">
 <br>
 <br>
-
+Frist menu
+<br>
+<img src="https://github.com/flormich/menu-demo/blob/master/Capture2.JPG">
+<br>
+<br>
+<br>
+Activities menu
+<br>
+<img  src="https://github.com/flormich/menu-demo/blob/master/Capture3.JPG">
 </p>
 
 
