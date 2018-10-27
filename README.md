@@ -19,23 +19,9 @@ Drop down menu for android
 ## 📺 [Demo](https://flomi.000webhostapp.com/demo-mvc/public/roles)
 
 <p align="center">
-Drop down Menu
-<br>
-<img  src="https://github.com/flormich/menu-demo/blob/master/Capture.JPG">
-<br>
-<br>
-Frist menu
-<br>
-<img src="https://github.com/flormich/menu-demo/blob/master/Capture2.JPG">
-<br>
-<br>
-<br>
-Activities menu
-<br>
-<img  src="https://github.com/flormich/menu-demo/blob/master/Capture3.JPG">
-</p>
+ <img src="https://github.com/flormich/menu-demo/blob/master/menuDemo.gif">
 
-
+ </p>
 
 
 
