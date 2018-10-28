@@ -16,6 +16,14 @@
 ## ✨️ Usage
 Drop down menu for android
 
+## 💻 Installation
+Clone this reposoitory
+
+```
+git clone  https://github.com/flormich/menu-demo
+
+```
+
 ## 📺 [Demo](https://flomi.000webhostapp.com/demo-mvc/public/roles)
 
 <p align="center">
